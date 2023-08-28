@@ -3,7 +3,7 @@
 <h2>Goslate</h2>
     <h3><ul><li>Api to google translation service.</li> <li>Querying Google translation</li></ul></h3>
 
-<h2>Transslate</h2>
+<h2>Translate</h2>
     <h3><ul><li>Powerful translation tool with support for multiple translation provider.</li>
     <li>Offers integrationwith Microsoft translation API, Translated MyMemory API, LibreTraslate, and more</li></ul></h3>
 
